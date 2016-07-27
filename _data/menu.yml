@@ -7,12 +7,6 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "For Students"
-  href: "/for-students/"
-  subcategories:
-    - subtitle: "Letters of Recommendation"
-      subhref: "/for-students/letters-of-recommendation/"
-
 - title: "Research"
   href: "/research/"
 
