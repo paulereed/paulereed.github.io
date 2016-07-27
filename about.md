@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+{% include image.html url="/images/preed.tiff" caption="One of the few pics of me that I like. Photo credit to my wife." width=350 align="right" %}
+
 I am a post-doctoral researcher in the Language Processing Laboratory in the Department
 of Communication Sciences and Disorders at the University of South Carolina. My research
 interests primarily center on sociophonetics, i.e., how the way we talk signals aspects of
