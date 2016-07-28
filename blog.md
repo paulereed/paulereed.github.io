@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 
 This blog will be used mainly for topics of academic interest, like LaTeX, R, Praat, etc.
-I blog semi-regularly about more popular interest topics at [my blogger site](http://mountainmanlinguistics.blogspot.com).
+I blog semi-regularly about more popular interest topics at [my blogger site](http://mountainmanlinguistics.blogspot.com){:target="_blank"}.
 A full listing of my blog posts follows below.
 
 <ul class="listing">
