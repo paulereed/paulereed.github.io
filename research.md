@@ -21,14 +21,14 @@ are in various stages of the publication process.
 
 ## Publications 
 
+Reed, Paul E. In press. Appalachia, monophthongization, and intonation: Rethinking tradition. In *Proceedings of Language Variation in the South (LAVIS IV)* Eds. Walt Wolfram, Jeffrey Reaser, and Eric Wilbanks. University of North Carolina Press.
+
 Montgomery, Allen A., Paul E. Reed, Kimberley A. Crass, H. Isabel Hubbard, and Joanna Stith. 2014. 
 [The effects of measurement error and vowel removal on the locus equation measure of coarticulation](Montgomeryetal14.pdf). *The Journal of the Acoustical Society of America* **136**(5), 2747-2750.
 
 Reed, Paul E. 2014a. [Defining the field: A comprehensive introduction to sociophonetics. Review of *Sociophonetics: An Introduction* by Erik R. Thomas](Reed_2014_ThomasReview.pdf). *American Speech* **89**(1), 111-114.
 
 Reed, Paul E. 2014b. [Inter- and intra- generational monophthongization and Southern Appalachian identity](Reed_2014_SJoL38_1.pdf). *Southern Journal of Linguistics* **38**(1), 159-193.
-
-Reed, Paul E. In press. Appalachia, monophthongization, and intonation: Rethinking tradition. In *Proceedings of Language Variation in the South (LAVIS IV)* Eds. Walt Wolfram, Jeffrey Reaser, and Eric Wilbanks. University of North Carolina Press.
 
 ## Outreach Publications
 
@@ -53,3 +53,63 @@ Reed, Paul E. In preparation. Language, place, and rootedness in Appalachia: A c
 Reed, Paul E. In preparation. Monophthongization and identity: Change across the lifespan.
 
 Reed, Paul E., and Michael Montgomery. In preparation. Evidence of earlier African-American English in a bi-racial Appalachian enclave community.
+
+## Recent Presentations and Posters
+
+### 2016
+
+Reed, Paul E. 2016. *Monophthongization of /ay/ as a local identity marker*. Paper presented
+at the Southeastern Conference on Linguistics (SECOL) 83. New Orleans, LA. March 28-31. ([pdf of slides](Reed_SECOL2016_handout.pdf))
+
+### 2015
+
+Reed, Paul E. 2015f. *Using vowel trajectories for Southern U.S. monophthongization*. Poster
+presented at the Acoustical Society of America (ASA) Fall Meeting. Jacksonville, FL. November 2-6. ([pdf of poster](ASA_2015_Vowel_Trajectory.pdf))
+
+Reed, Paul E. 2015e. *Place and language: A flexible metric for Rootedness*. Poster presented 
+at New Ways of Analyzing Variation (NWAV) 44. Toronto, Ontario, Canada. October 22-25. ([pdf of poster](NWAV_2015_Place_Language.pdf))
+
+Reed, Paul E. 2015d. *Appalachia, monophthongization, and intonation: Rethinking tradition*. Invited presentation
+at Language Variation in the South (LAVIS) IV. Raleigh, NC. April 9-11. ([pdf of slides](LAVISIV_Presentation_handout.pdf))
+
+Reed, Paul E. 2015c. *Mountain intonation: Using pitch in Appalachian English*. Paper presented 
+at the Appalachian Studies Association (ASA) Annual Conference. Johnson City, TN. March 27-29. ([pdf of slides](ASA_2015_Appalachian_Intonation.pdf))
+
+Reed, Paul E. 2015b. *Appalachian local orientation and intonation: A sociophonetic account*.
+Paper presented at the American Dialect Society (ADS) Annual Meeting. Portland, OR. January 8-11. ([pdf of slides](ADS2015.pdf))
+
+Reed, Paul E. 2015a. *Social Class in rural populations: Rethinking paradigms*. Poster presented
+at the Linguistic Society of America (LSA) Annual Meeting. Portland, OR. January 8-11. ([pdf of poster](RuralClass.pdf))
+
+### 2014
+
+Dubinsky, Stanley, and Paul E. Reed. 2014. *A definitive account of double modal distribution in Southern American English*. Poster presented
+at the American Dialect Society (ADS) Annual Meeting. Minneapolis, MN. January 2-5. ([pdf of poster](ADS_Dubinsky_Reed_2014.pdf))
+
+Reed, Paul E. 2014c. *The realization of pitch as a socio-pragmatic identity marker*. Poster
+presented at the New Ways of Analyzing Variation (NWAV) 43. Chicago, IL. October 23-26. ([pdf of poster](NWAV_Reed_2014_Rising_Pitch.pdf))
+
+Reed, Paul E. 2014b. *Best practices in representing Appalachian Speech*. Paper presented 
+at the Appalachian Studies Association (ASA) Annual Conference. Huntington, WV. March 28-30. ([pdf of slides](ASA_2014.pdf))
+
+Reed, Paul E. 2014a. *Rising pitch realization in Appalachian English*.
+Paper presented at the American Dialect Society (ADS) Annual Meeting. Minneapolis, MN. January 2-5. ([pdf of slides](ADS2014.pdf))
+
+Reed, Paul E., and Stanley Dubinsky. 2014. *The syntax of multiple modals from a corpus and experimental perspective*.
+Poster presented at Linguistic Society of America (LSA) Annual Meeting. Minneapolis, MN. January 2-5. ([pdf of poster](LSA_Reed_Dubinsky_2014.pdf))
+
+### 2013
+
+Reed, Paul E. 2013b. *Exploration of methods and activities that allow greater student involvement
+in the instruction of articulatory and acoustic phonetics* Paper presented
+at the Southeastern Conference on Linguistics (SECOL) 80. Spartanburg, SC. April 4-6. ([pdf of slides](Reed_SECOL_2013.pdf))
+
+Reed, Paul E. 2013a. *Vowels in Appalachia: Linguistics and language change*. Paper presented
+at the Appalachian Studies Association (ASA) Annual Conference. Boone, NC. March 22-24. ([pdf of slides](ASA_2013_Vowels_in_Appalachia.pdf))
+
+Reed, Paul E., and Michael Montgomery. 2013. *Earlier African-American English: Evidence from
+an Appalachian bi-racial enclave community*. Paper presented at the Society for Pidgin and 
+Creole Linguistics (SPCL) Winter Meeting. Boston, MA. January 4-5. ([pdf of slides](SPCL_2013_Coe_Ridge.pdf))
+
+### 2012
+
