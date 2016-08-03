@@ -85,11 +85,11 @@ presented at the Acoustical Society of America (ASA) Fall Meeting. Jacksonville,
 Dubinsky, Stanley, and Paul E. Reed. 2014. *A definitive account of double modal distribution in Southern American English*. Poster presented
 at the American Dialect Society (ADS) Annual Meeting. Minneapolis, MN. January 2-5. ([pdf of poster](ADS_Dubinsky_Reed_2014.pdf))
 
-Reed, Paul E. 2014a. *Rising pitch realization in Appalachian English*.
-Paper presented at the American Dialect Society (ADS) Annual Meeting. Minneapolis, MN. January 2-5. ([pdf of slides](ADS2014.pdf))
-
 Reed, Paul E., and Stanley Dubinsky. 2014. *The syntax of multiple modals from a corpus and experimental perspective*.
 Poster presented at Linguistic Society of America (LSA) Annual Meeting. Minneapolis, MN. January 2-5. ([pdf of poster](LSA_Reed_Dubinsky_2014.pdf))
+
+Reed, Paul E. 2014a. *Rising pitch realization in Appalachian English*.
+Paper presented at the American Dialect Society (ADS) Annual Meeting. Minneapolis, MN. January 2-5. ([pdf of slides](ADS2014.pdf))
 
 Reed, Paul E. 2014b. *Best practices in representing Appalachian Speech*. Paper presented 
 at the Appalachian Studies Association (ASA) Annual Conference. Huntington, WV. March 28-30. ([pdf of slides](ASA_2014.pdf))
@@ -162,3 +162,7 @@ Moreno, Nina, Casey Carroll, and Paul E. Reed. 2011. *Intra-ethnic attitudes tow
 maintenance within a Hispanic community in the South*. Paper presented at the American 
 Association of Teachers of Spanish and Portuguese (AATSP) Annual Meeting. Washington, DC. July 6-9. 
 ([pdf of slides](Moreno_Carroll_Reed_AATSP_2011.pdf))
+
+Holt, D. Eric, and Paul E. Reed. 2011. *Native speaker perceptions of learners' connected 
+speech processes in Spanish*. Poster presented at the Hispanic Linguistic Symposium. Athens, GA.
+October 6-9.
