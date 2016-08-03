@@ -62,35 +62,28 @@ Reed, Paul E. 2016. *Monophthongization of /ay/ as a local identity marker*. Pap
 at the Southeastern Conference on Linguistics (SECOL) 83. New Orleans, LA. March 28-31. ([pdf of slides](Reed_SECOL2016_handout.pdf))
 
 ### 2015
-
-Reed, Paul E. 2015f. *Using vowel trajectories for Southern U.S. monophthongization*. Poster
-presented at the Acoustical Society of America (ASA) Fall Meeting. Jacksonville, FL. November 2-6. ([pdf of poster](ASA_2015_Vowel_Trajectory.pdf))
-
-Reed, Paul E. 2015e. *Place and language: A flexible metric for Rootedness*. Poster presented 
-at New Ways of Analyzing Variation (NWAV) 44. Toronto, Ontario, Canada. October 22-25. ([pdf of poster](NWAV_2015_Place_Language.pdf))
-
-Reed, Paul E. 2015d. *Appalachia, monophthongization, and intonation: Rethinking tradition*. Invited presentation
-at Language Variation in the South (LAVIS) IV. Raleigh, NC. April 9-11. ([pdf of slides](LAVISIV_Presentation_handout.pdf))
-
-Reed, Paul E. 2015c. *Mountain intonation: Using pitch in Appalachian English*. Paper presented 
-at the Appalachian Studies Association (ASA) Annual Conference. Johnson City, TN. March 27-29. ([pdf of slides](ASA_2015_Appalachian_Intonation.pdf))
+Reed, Paul E. 2015a. *Social Class in rural populations: Rethinking paradigms*. Poster presented
+at the Linguistic Society of America (LSA) Annual Meeting. Portland, OR. January 8-11. ([pdf of poster](RuralClass.pdf))
 
 Reed, Paul E. 2015b. *Appalachian local orientation and intonation: A sociophonetic account*.
 Paper presented at the American Dialect Society (ADS) Annual Meeting. Portland, OR. January 8-11. ([pdf of slides](ADS2015.pdf))
 
-Reed, Paul E. 2015a. *Social Class in rural populations: Rethinking paradigms*. Poster presented
-at the Linguistic Society of America (LSA) Annual Meeting. Portland, OR. January 8-11. ([pdf of poster](RuralClass.pdf))
+Reed, Paul E. 2015c. *Mountain intonation: Using pitch in Appalachian English*. Paper presented 
+at the Appalachian Studies Association (ASA) Annual Conference. Johnson City, TN. March 27-29. ([pdf of slides](ASA_2015_Appalachian_Intonation.pdf))
+
+Reed, Paul E. 2015d. *Appalachia, monophthongization, and intonation: Rethinking tradition*. Invited presentation
+at Language Variation in the South (LAVIS) IV. Raleigh, NC. April 9-11. ([pdf of slides](LAVISIV_Presentation_handout.pdf))
+
+Reed, Paul E. 2015e. *Place and language: A flexible metric for Rootedness*. Poster presented 
+at New Ways of Analyzing Variation (NWAV) 44. Toronto, Ontario, Canada. October 22-25. ([pdf of poster](NWAV_2015_Place_Language.pdf))
+
+Reed, Paul E. 2015f. *Using vowel trajectories for Southern U.S. monophthongization*. Poster
+presented at the Acoustical Society of America (ASA) Fall Meeting. Jacksonville, FL. November 2-6. ([pdf of poster](ASA_2015_Vowel_Trajectory.pdf))
 
 ### 2014
 
 Dubinsky, Stanley, and Paul E. Reed. 2014. *A definitive account of double modal distribution in Southern American English*. Poster presented
 at the American Dialect Society (ADS) Annual Meeting. Minneapolis, MN. January 2-5. ([pdf of poster](ADS_Dubinsky_Reed_2014.pdf))
-
-Reed, Paul E. 2014c. *The realization of pitch as a socio-pragmatic identity marker*. Poster
-presented at the New Ways of Analyzing Variation (NWAV) 43. Chicago, IL. October 23-26. ([pdf of poster](NWAV_Reed_2014_Rising_Pitch.pdf))
-
-Reed, Paul E. 2014b. *Best practices in representing Appalachian Speech*. Paper presented 
-at the Appalachian Studies Association (ASA) Annual Conference. Huntington, WV. March 28-30. ([pdf of slides](ASA_2014.pdf))
 
 Reed, Paul E. 2014a. *Rising pitch realization in Appalachian English*.
 Paper presented at the American Dialect Society (ADS) Annual Meeting. Minneapolis, MN. January 2-5. ([pdf of slides](ADS2014.pdf))
@@ -98,18 +91,74 @@ Paper presented at the American Dialect Society (ADS) Annual Meeting. Minneapoli
 Reed, Paul E., and Stanley Dubinsky. 2014. *The syntax of multiple modals from a corpus and experimental perspective*.
 Poster presented at Linguistic Society of America (LSA) Annual Meeting. Minneapolis, MN. January 2-5. ([pdf of poster](LSA_Reed_Dubinsky_2014.pdf))
 
+Reed, Paul E. 2014b. *Best practices in representing Appalachian Speech*. Paper presented 
+at the Appalachian Studies Association (ASA) Annual Conference. Huntington, WV. March 28-30. ([pdf of slides](ASA_2014.pdf))
+
+Reed, Paul E. 2014c. *The realization of pitch as a socio-pragmatic identity marker*. Poster
+presented at the New Ways of Analyzing Variation (NWAV) 43. Chicago, IL. October 23-26. ([pdf of poster](NWAV_Reed_2014_Rising_Pitch.pdf))
+
 ### 2013
-
-Reed, Paul E. 2013b. *Exploration of methods and activities that allow greater student involvement
-in the instruction of articulatory and acoustic phonetics* Paper presented
-at the Southeastern Conference on Linguistics (SECOL) 80. Spartanburg, SC. April 4-6. ([pdf of slides](Reed_SECOL_2013.pdf))
-
-Reed, Paul E. 2013a. *Vowels in Appalachia: Linguistics and language change*. Paper presented
-at the Appalachian Studies Association (ASA) Annual Conference. Boone, NC. March 22-24. ([pdf of slides](ASA_2013_Vowels_in_Appalachia.pdf))
 
 Reed, Paul E., and Michael Montgomery. 2013. *Earlier African-American English: Evidence from
 an Appalachian bi-racial enclave community*. Paper presented at the Society for Pidgin and 
 Creole Linguistics (SPCL) Winter Meeting. Boston, MA. January 4-5. ([pdf of slides](SPCL_2013_Coe_Ridge.pdf))
 
+Reed, Paul E. 2013a. *Vowels in Appalachia: Linguistics and language change*. Paper presented
+at the Appalachian Studies Association (ASA) Annual Conference. Boone, NC. March 22-24. ([pdf of slides](ASA_2013_Vowels_in_Appalachia.pdf))
+
+Reed, Paul E. 2013b. *Exploration of methods and activities that allow greater student involvement
+in the instruction of articulatory and acoustic phonetics* Paper presented
+at the Southeastern Conference on Linguistics (SECOL) 80. Spartanburg, SC. April 4-6. ([pdf of slides](Reed_SECOL_2013.pdf))
+
 ### 2012
 
+Reed, Paul E. 2012a. *An exemplar-based cross-treatment analysis of learners' acquisition of the Spanish vowel space*. 
+Paper presented at Current Approaches to Spanish and Portuguese Second Language Phonology (CASPSLaP).
+Columbia, SC. February 16-18. ([pdf of slides](CASPSLaP_Exemplar.pdf))
+
+Reed, Paul E., and D. Eric Holt. 2012. *Native speakers perceptions of L2 connected speech in 
+Spanish*. Paper presented at Current Approaches to Spanish and Portuguese Second Language Phonology (CASPSLaP).
+Columbia, SC. February 16-18. 
+
+Reed, Paul E. 2012b. *Inter- and intra-generational monophthongization and Appalachian identity: A family and self study*.
+Paper presented at the 2nd Annual Interdisciplinary Symposium on Language. Jefferson City, TN. March 15. ([pdf of slides](CNU_Symposium_2012.pdf))
+
+Reed, Paul E. 2012c. *Monophthongization and Southern Appalachian identity*. Paper presented at
+the Southeastern Conference on Linguistics (SECOL) 79. Lexington, KY. April 12-14. ([pdf of slides](Reed_SECOL_2012.pdf))
+
+Reed, Paul E. 2012d. *Monophthongization and Southern Appalachian identity: Change over a lifetime*. Poster 
+presented at New Ways of Analyzing Variation (NWAV) 41. Bloomington, IN. October 25-28. ([pdf of poster](NWAV_Reed_2012.pdf))
+
+Reed, Paul E., and Michael Montgomery. 2012. *Monophthongization and /r/-lessness in an Appalachian 
+biracial enclave community* Poster presented at New Ways of Analyzing Variation (NWAV) 41. 
+Bloomington, IN. October 25-28. ([pdf of poster](Reed_Montgomery_NWAV_2012.pdf))
+
+Reed, Paul E., and Allen A. Montgomery. 2012. *Stability of locus equations with error and
+vowel removal*. Poster presented at the American Speech, Hearing, and Language Association (ASHA)
+National Convention. Atlanta, GA. November 15-17. ([pdf of poster](Reed_Montgomery_ASHA_2012.pdf))
+
+### 2011
+
+Reed, Paul E., and Michael Montgomery. 2011. *The multiple modal database: A new resource for
+researchers*. Paper presented at the American Dialect Society (ADS) Annual Meeting. Pittsburgh, PA. 
+January 6-8.
+
+Reed, Paul E. 2011a. *Ehpanol in loh Ehtadoh Unidoh*. Paper presented at Spanish Linguistics
+in North Carolina (SLINKI). Raleigh, NC. January 22. 
+
+Reed, Paul E. 2011b. *Towards an understanding of the development of "hay"*. Paper presented 
+at the 19th University of Texas Colloquium on Hispanic and Luso-Brazilian Literatures and 
+Linguistics. Austin, TX. February 25-26. ([pdf of slides](Reed_UT_Symposium_2011.pdf))
+
+Reed, Paul E. 2011c. *Towards an understanding of the implicational relationships of multiple
+modals: A study in Northeast Tennessee*. Paper presented at the Southeastern Conference on 
+Linguistics (SECOL) 78. Pine Mountain, GA. April 13-15. ([pdf of slides](Reed_SECOL_2011.pdf))
+
+Reed, Paul E., and Michael Montgomery. 2011. *The MultiMo database and website: A new resource for
+researchers*. Paper presented at the Southeastern Conference on Linguistics (SECOL) 78. 
+Pine Mountain, GA. April 13-15. 
+
+Moreno, Nina, Casey Carroll, and Paul E. Reed. 2011. *Intra-ethnic attitudes toward language 
+maintenance within a Hispanic community in the South*. Paper presented at the American 
+Association of Teachers of Spanish and Portuguese (AATSP) Annual Meeting. Washington, DC. July 6-9. 
+([pdf of slides](Moreno_Carroll_Reed_AATSP_2011.pdf))
