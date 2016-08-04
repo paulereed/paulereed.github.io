@@ -11,7 +11,19 @@ English in the Southern United States, and the perception of phonetic processes.
 the Appalachian region, with an emphasis on vocalic and intonational variation. I examine the effect 
 that socio-indexical aspects of individuals have on various phonetic processes. Also, I 
 have investigated various phonetic processes and how they affect or impact the perception and 
-processing of speech. Here, you can find materials relevant to my published research and presentations.
+processing of speech. Some of these processes are locus equations, the impact of noise, 
+how signal degradation and speech rate affects connected speech perception, and syllable structure.
+
+Other areas of interest are statistical analysis, particularly mixed effects models and other
+hierarchical linear models. I have served as a statistical consultant for several projects, from
+the acquisition of spelling to lipreading.
+
+Outside of my phonetic work, I have investigated other aspects of the linguistics of Southern American English. 
+With Stan Dubinsky, we have an ongoing project examining the syntax and semantics of multiple modals. 
+In a related vein, I am the co-director, with Michael Montgomery, of
+*[MultiMo](http://artsandsciences.sc.edu/multimo/){:target='_blank'}*, a searchable database of published and unpublished tokens of multiple modals.
+
+Here, you can find materials relevant to my published research and presentations.
 
 I provide full links for these papers that have appeared and to presentations and posters.  
 [My CV](http://paulereed.github.io/cv/) contains more information about other projects that
@@ -165,4 +177,4 @@ Association of Teachers of Spanish and Portuguese (AATSP) Annual Meeting. Washin
 
 Holt, D. Eric, and Paul E. Reed. 2011. *Native speaker perceptions of learners' connected 
 speech processes in Spanish*. Poster presented at the Hispanic Linguistic Symposium. Athens, GA.
-October 6-9.
+October 6-9. ([pdf of poster](Holt_Reed_HLS_2011.pdf))
