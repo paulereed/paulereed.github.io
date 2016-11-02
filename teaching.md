@@ -14,11 +14,12 @@ do not have links can [e-mail me](mailto:reedpe@mailbox.sc.edu).
 
 ## University of South Carolina
 
-1. LING 300/PSYC470/ANTH373 (Introduction to Language Sciences)
-2. LING 314/SPAN 317 (Spanish Phonetics and Pronunciation)
-3. SPAN 109 (Beginning Spanish I)
-4. SPAN 121 (Elementary Spanish)
-5. SPAN 122 (Basic Proficiency in Spanish)
+1. LING 240 (Language Conflict and Language Rights)
+2. LING 300/PSYC470/ANTH373 (Introduction to Language Sciences)
+3. LING 314/SPAN 317 (Spanish Phonetics and Pronunciation)
+4. SPAN 109 (Beginning Spanish I)
+5. SPAN 121 (Elementary Spanish)
+6. SPAN 122 (Basic Proficiency in Spanish)
 
 ## St. Mary's University
 
