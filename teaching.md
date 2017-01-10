@@ -11,6 +11,11 @@ do not have links can [e-mail me](mailto:reedpe@mailbox.sc.edu).
 
 <hr style="clear:both;visibility: hidden;" />  
 
+## Proposed Courses
+1. [Corpus Linguistics](/teaching/corpus_linguistics/) 
+2. [English Grammar](/teaching/english_grammar/)
+3. [General Linguistics](/teaching/general_linguistics/)
+
 
 ## University of South Carolina
 
