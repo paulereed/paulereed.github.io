@@ -10,7 +10,7 @@ permalink: /teaching/corpus_linguistics/
 
 ## Readings
 
-1. [Baker, Gabrielatos and McEnery 2013](BakerGabrielatosMcEnery_2013.pdf)
+1. [Baker, Gabrielatos and McEnery 2013](BakerGabrielatosandMcEnery_2013.pdf)
 2. [Myslin and Gries 2010](MyslinGries_2010.pdf)
 3. [Hyland and Milton 2003](HylandMilton_1997-2003.pdf)
 4. [Diessel and Tomasello 2005](DiesselTomasello_2005.pdf)
