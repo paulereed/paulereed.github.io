@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to Speech Science
-permalink: /teaching/socio_in_SLP/
+permalink: /teaching/intro_speech_science/
 ---
 
 ## Course Material
