@@ -7,7 +7,7 @@ permalink: /cv/
 
 <div class="box">
     <div>
-    <span style="float: center;"><a class="button" href="/cv/Reed_CV.pdf">Download PDF</a></span>
+    <span style="float: center;"><a class="button" href="/cv/Reed_CV_website.pdf">Download PDF</a></span>
     
     </div>
     
