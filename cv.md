@@ -11,5 +11,5 @@ permalink: /cv/
     
     </div>
     
-<embed src="/cv/Reed_CV.pdf" width="800" height="800" type='application/pdf'>
+<embed src="/cv/Reed_CV_website.pdf" width="800" height="800" type='application/pdf'>
 
