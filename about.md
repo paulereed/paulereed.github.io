@@ -14,7 +14,7 @@ Much of my sociophonetic work focuses on the English varieties in the
 American South, with a special focus on Appalachian English varieties. 
 
 Aside from phonetics, I am an advocate for the Appalachian region as a whole. I am 
-co-director, with Michael Montgomery, of the Appalachian English [website](http://artsandsciences.sc.edu/engl/dictionary/){:target='_blank'}. 
+co-director, with Michael Montgomery, of the Appalachian English [website](http://artsandsciences.sc.edu/appalachianenglish/){:target='_blank'}. 
 This site helps to educate both linguists and interested laypersons about the features of 
 and variation within Appalachian English.
 
