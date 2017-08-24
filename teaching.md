@@ -7,13 +7,13 @@ permalink: /teaching/
 This page serves as a directory for the courses I am currently teaching, or have taught, 
 and is freely available to current students, alumni of my classes, and any other 
 interested observers. People interested in syllabi from previous courses that 
-do not have links can [e-mail me](mailto:reedpe@mailbox.sc.edu).
+do not have links can [e-mail me](mailto:pereed1@ua.edu).
 
 <hr style="clear:both;visibility: hidden;" />  
 
 ## Proposed Courses
-1. [Introduction to Speech Science](/teaching/intro_speech_science/) 
-2. [Socioinguistics in SLP](/teaching/socio_in_SLP/)
+1. [Introduction to Research Methods](/teaching/intro_research_methods/) 
+2. [Articulation and Phonology](/teaching/articulation_phonology/)
 
 
 ## University of South Carolina
