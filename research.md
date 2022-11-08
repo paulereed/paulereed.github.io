@@ -81,15 +81,14 @@ Reed, Paul E. 2016. [Mountain Talk](THJHmagazine_Spring2016_Mountain Talk.pdf). 
 
 ### Submitted Papers
 
+Reed, Paul E. Under revision. *Appalachian Englishes* in *The New Encyclopedia of World Englishes*. Blackwell.
 
+Baese-Berk, Melissa, and Paul E. Reed. Under review. Addressing diversity in speech science courses. *Journal of the Acoustical Society of America*.
 
-### Works in Progress
+Blanchette, Frances K., Carrie Jackson, Erin Flannery, and Paul E. Reed. Under review. Adaptation at the syntax-semantics interface: Evidence from a vernacular construction. *Language and Speech*.
 
-Adams, Charley A., Kimberley A. Crass, Allen A. Montgomery, and Paul E. Reed. Under revision. Influence of lexical characteristics on the lipreading of words in sentences. *Journal of Speech, Language, and Hearing Research*.
+Childs, Becky, and Paul E. Reed. Under review. The English of the Southern United States. In *New History of the English Language*. Cambridge University Press.
 
-Reed, Paul E. In preparation. Monophthongization of /ay/ as a local identity marker.
-
-Reed, Paul E., and Michael Montgomery. In preparation. Evidence of earlier African-American English in a bi-racial Appalachian enclave community.
 
 ## Recent Presentations and Posters
 
