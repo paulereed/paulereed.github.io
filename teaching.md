@@ -12,7 +12,7 @@ do not have links can [e-mail me](mailto:pereed1@ua.edu).
 <hr style="clear:both;visibility: hidden;" />  
 
 ## University of Alabama - Current Courses
-1. 
+1. [Introduction to Phonetics](/teaching/intro_phonetics/)
 2. [Articulation and Phonology](/teaching/articulation_phonology/)
 
 ##University of Alabama
