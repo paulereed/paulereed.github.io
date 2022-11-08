@@ -6,5 +6,5 @@ permalink: /teaching/intro_phonetics/
 
 ## Course Material
 
-1. [Syllabus](Intro_Phonetics_syllabus.pdf)
+1. [Syllabus](Intro_Phonetics_Syllabus.pdf)
 
