@@ -32,7 +32,7 @@ are in various stages of the publication process.
 
 ## Publications 
 
-#### Articles
+### Articles
 
 Burdin, Rachel Steindel, Nicole R. Holliday, and Paul E. Reed. 2022. American English pitch accents in variation: Pushing the boundaries of Mainstream American English ToBI conventions. *Journal of Phonetics* **94**
 
@@ -59,25 +59,25 @@ Montgomery, Allen A., Paul E. Reed, Kimberley A. Crass, H. Isabel Hubbard, and J
 
 Reed, Paul E. 2014. [Inter- and intra- generational monophthongization and Southern Appalachian identity](Reed_2014_SJoL38_1.pdf). *Southern Journal of Linguistics* **38**(1), 159-193.
 
-#### Book Chapters
+### Book Chapters
 
 Reed, Paul E. 2020. Phonological possibilities in Appalachian English. In *Appalachian Englishes in the 21st Century*. Ed. Kirk Hazen. Morganton, WV: WVU Press, pp.20-35.
 
 Reed, Paul E. In press. Appalachia, monophthongization, and intonation: Rethinking tradition. In *Language Variety in the New South: Contemporary Perspectives on Change and Variation* Eds. Jeffrey Reaser, Eric Wilbanks, Karissa Wojcik, and Walt Wolfram. Chapel Hill, NC: University of North Carolina Press, pp.97-112.
 
-#### Book Reviews
+### Book Reviews
 
 Reed, Paul E. 2018. Review of *What you are getting wrong about Appalachia* by Elizabeth Catte and *Ramp Hollow* by Steven Stoll. *Journal of the Working Class Studies Association* **3**(2), 113-116.
 
 Reed, Paul E. 2014. [Defining the field: A comprehensive introduction to sociophonetics. Review of *Sociophonetics: An Introduction* by Erik R. Thomas](Reed_2014_ThomasReview.pdf). *American Speech* **89**(1), 111-114.
 
 
-#### Outreach Publications
+### Outreach Publications
 
 Reed, Paul E. 2016. [Mountain Talk](THJHmagazine_Spring2016_Mountain Talk.pdf). *Tar Heel Junior Historian Magazine* **Spring**
 
 
-#### Submitted Papers
+### Submitted Papers
 
 
 
