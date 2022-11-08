@@ -69,7 +69,7 @@ Reed, Paul E. 2018. [Appalachia, monophthongization, and intonation: Rethinking 
 
 ### Book Reviews
 
-Reed, Paul E. 2018. Review of *What you are getting wrong about Appalachia* by Elizabeth Catte and *Ramp Hollow* by Steven Stoll. *Journal of the Working Class Studies Association* **3**(2), 113-116.
+Reed, Paul E. 2018. [Review of *What you are getting wrong about Appalachia* by Elizabeth Catte and *Ramp Hollow* by Steven Stoll](Reed_2018_Review_Catte_Stoll.pdf). *Journal of the Working Class Studies Association* **3**(2), 113-116.
 
 Reed, Paul E. 2014. [Defining the field: A comprehensive introduction to sociophonetics. Review of *Sociophonetics: An Introduction* by Erik R. Thomas](Reed_2014_ThomasReview.pdf). *American Speech* **89**(1), 111-114.
 
