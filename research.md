@@ -54,6 +54,8 @@ Burdin, Rachel Steindel, Nicole Holliday, and Paul E. Reed. 2018. Rising above t
 
 Reed, Paul E. 2018. The importance of Appalachian identity: A case study in rootedness. *American Speech* **93**(3-4).
 
+Hay-McCutcheon, Marcia, Paul E. Reed, and Spyridoula Cheimariou. 2018. Positive social interaction and hearing loss in older adults living in rural and urban communities. *Journal of Speech, Language, and Hearing Research* **61**, 2138-2145.
+
 Montgomery, Allen A., Paul E. Reed, Kimberley A. Crass, H. Isabel Hubbard, and Joanna Stith. 2014. 
 [The effects of measurement error and vowel removal on the locus equation measure of coarticulation](Montgomeryetal14.pdf). *The Journal of the Acoustical Society of America* **136**(5), 2747-2750.
 
