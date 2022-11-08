@@ -34,27 +34,27 @@ are in various stages of the publication process.
 
 ### Articles
 
-Burdin, Rachel Steindel, Nicole R. Holliday, and Paul E. Reed. 2022. American English pitch accents in variation: Pushing the boundaries of Mainstream American English ToBI conventions. *Journal of Phonetics* **94**
+Burdin, Rachel Steindel, Nicole R. Holliday, and Paul E. Reed. 2022. [American English pitch accents in variation: Pushing the boundaries of Mainstream American English ToBI conventions](BurdinHollidayReed_2022.pdf). *Journal of Phonetics* **94**
 
-Hendricks, Allison E., Mikayla Watson-Wales, and Paul E. Reed. 2021. Perceptions of African American English by students in speech-language pathology programs. *American Journal of Speech-Language Pathology* **30**(5), 1962-1972.
+Hendricks, Allison E., Mikayla Watson-Wales, and Paul E. Reed. 2021. [Perceptions of African American English by students in speech-language pathology programs](HendricksWatsonWalesReed_2021.pdf). *American Journal of Speech-Language Pathology* **30**(5), 1962-1972.
 
-Blanchette, Frances K., Paul E. Reed, Erin Flannery, and Carrie Jackson. 2020. Linguistic diversity in Appalachia: The case of negative auxiliary inversion. *American Speech* **95**(3), 297-320.
+Blanchette, Frances K., Paul E. Reed, Erin Flannery, and Carrie Jackson. 2020. [Linguistic diversity in Appalachia: The case of negative auxiliary inversion](BlanchetteEtAl_2020.pdf). *American Speech* **95**(3), 297-320.
 
-Reed, Paul E. 2020. Inter- and intra-regional variation in intonation: An analysis of rising pitch accents and rootedness. *The Journal of the Acoustical Society of America* **147**(1), 616-626.
+Reed, Paul E. 2020. [Inter- and intra-regional variation in intonation: An analysis of rising pitch accents and rootedness](Reed_2020b_Inter&IntraRegional_Variation_in_Intonation.pdf). *The Journal of the Acoustical Society of America* **147**(1), 616-626.
 
-Reed, Paul E. 2020. Place and language: Links between speech, region, and connection to place. *WIREs Cognitive Science* **11**(60).
+Reed, Paul E. 2020. [Place and language: Links between speech, region, and connection to place](Reed_2020a_Place_Language_WIREs.pdf). *WIREs Cognitive Science* **11**(60).
 
-Reed, Paul E. 2020. Prosodic variation and rootedness in Appalachian English. *Penn Working Papers in Linguistics* **25**(2).
+Reed, Paul E. 2020. [Prosodic variation and rootedness in Appalachian English](Reed_2020c_Prosodic_Variation.pdf). *Penn Working Papers in Linguistics* **25**(2).
 
-Reed, Paul E. The importance of rootedness in the study of Appalachian English: Case study evidence for a proposed rootedness metric. *American Speech* **95**(2), 203-226.
+Reed, Paul E. 2020. [The importance of rootedness in the study of Appalachian English: Case study evidence for a proposed rootedness metric](Reed_2020_ImportanceOfRootednessCaseStudy.pdf). *American Speech* **95**(2), 203-226.
 
-Werfel, Krystal, Melanie Schuele, and Paul E. Reed. 2019. Linguistic contributions to spelling accuracy in elementary children with SLI. *American Journal of Speech Language Pathology* **28**(2), 599-611.
+Werfel, Krystal, Melanie Schuele, and Paul E. Reed. 2019. [Linguistic contributions to spelling accuracy in elementary children with SLI](WerfelSchuleReed_2018.pdf). *American Journal of Speech Language Pathology* **28**(2), 599-611.
 
-Burdin, Rachel Steindel, Nicole Holliday, and Paul E. Reed. 2018. Rising above the standard: Variation in L+H* contour use across 5 varieties of American English. *Proceedings of the 9th International Conference on Speech Prosody* **9**, 354-358.
+Burdin, Rachel Steindel, Nicole Holliday, and Paul E. Reed. 2018. [Rising above the standard: Variation in L+H* contour use across 5 varieties of American English](BurdinHollidayReed_2018.pdf). *Proceedings of the 9th International Conference on Speech Prosody* **9**, 354-358.
 
-Reed, Paul E. 2018. The importance of Appalachian identity: A case study in rootedness. *American Speech* **93**(3-4).
+Reed, Paul E. 2018. [The importance of Appalachian identity: A case study in rootedness](Reed_2018_CaseStudyRootedness.pdf). *American Speech* **93**(3-4).
 
-Hay-McCutcheon, Marcia, Paul E. Reed, and Spyridoula Cheimariou. 2018. Positive social interaction and hearing loss in older adults living in rural and urban communities. *Journal of Speech, Language, and Hearing Research* **61**, 2138-2145.
+Hay-McCutcheon, Marcia, Paul E. Reed, and Spyridoula Cheimariou. 2018. [Positive social interaction and hearing loss in older adults living in rural and urban communities](HayMcCutcheonEtAl_2018.pdf). *Journal of Speech, Language, and Hearing Research* **61**, 2138-2145.
 
 Montgomery, Allen A., Paul E. Reed, Kimberley A. Crass, H. Isabel Hubbard, and Joanna Stith. 2014. 
 [The effects of measurement error and vowel removal on the locus equation measure of coarticulation](Montgomeryetal14.pdf). *The Journal of the Acoustical Society of America* **136**(5), 2747-2750.
@@ -63,9 +63,9 @@ Reed, Paul E. 2014. [Inter- and intra- generational monophthongization and South
 
 ### Book Chapters
 
-Reed, Paul E. 2020. Phonological possibilities in Appalachian English. In *Appalachian Englishes in the 21st Century*. Ed. Kirk Hazen. Morganton, WV: WVU Press, pp.20-35.
+Reed, Paul E. 2020. [Phonological possibilities in Appalachian English](Reed_2020e_PhonologicalPossibilities.pdf). In *Appalachian Englishes in the 21st Century*. Ed. Kirk Hazen. Morganton, WV: WVU Press, pp.20-35.
 
-Reed, Paul E. In press. Appalachia, monophthongization, and intonation: Rethinking tradition. In *Language Variety in the New South: Contemporary Perspectives on Change and Variation* Eds. Jeffrey Reaser, Eric Wilbanks, Karissa Wojcik, and Walt Wolfram. Chapel Hill, NC: University of North Carolina Press, pp.97-112.
+Reed, Paul E. 2018. [Appalachia, monophthongization, and intonation: Rethinking tradition](Reed_2018a_Ch5.pdf). In *Language Variety in the New South: Contemporary Perspectives on Change and Variation* Eds. Jeffrey Reaser, Eric Wilbanks, Karissa Wojcik, and Walt Wolfram. Chapel Hill, NC: University of North Carolina Press, pp.97-112.
 
 ### Book Reviews
 
