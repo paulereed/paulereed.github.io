@@ -18,8 +18,7 @@ Other areas of interest are statistical analysis, particularly mixed effects mod
 hierarchical linear models. I have served as a statistical consultant for several projects, from
 the acquisition of spelling to lipreading.
 
-Outside of my phonetic work, I have investigated other aspects of the linguistics of Southern American English. 
-With Stan Dubinsky, we have an ongoing project examining the syntax and semantics of multiple modals. 
+Outside of my phonetic work, I have investigated other aspects of the linguistics of Southern American English, primarily the syntax of multiple modals, negation, and auxiliary movement. 
 In a related vein, I am the co-director, with Michael Montgomery, of
 *[MultiMo](http://artsandsciences.sc.edu/multimo/){:target='_blank'}*, a searchable database of published and unpublished tokens of multiple modals.
 
@@ -33,36 +32,60 @@ are in various stages of the publication process.
 
 ## Publications 
 
-Reed, Paul E. In press. Appalachia, monophthongization, and intonation: Rethinking tradition. In *Proceedings of Language Variation in the South (LAVIS IV)* Eds. Walt Wolfram, Jeffrey Reaser, and Eric Wilbanks. University of North Carolina Press.
+#### Articles
+
+Burdin, Rachel Steindel, Nicole R. Holliday, and Paul E. Reed. 2022. American English pitch accents in variation: Pushing the boundaries of Mainstream American English ToBI conventions. *Journal of Phonetics* **94**
+
+Hendricks, Allison E., Mikayla Watson-Wales, and Paul E. Reed. 2021. Perceptions of African American English by students in speech-language pathology programs. *American Journal of Speech-Language Pathology* **30**(5), 1962-1972.
+
+Blanchette, Frances K., Paul E. Reed, Erin Flannery, and Carrie Jackson. 2020. Linguistic diversity in Appalachia: The case of negative auxiliary inversion. *American Speech* **95**(3), 297-320.
+
+Reed, Paul E. 2020. Inter- and intra-regional variation in intonation: An analysis of rising pitch accents and rootedness. *The Journal of the Acoustical Society of America* **147**(1), 616-626.
+
+Reed, Paul E. 2020. Place and language: Links between speech, region, and connection to place. *WIREs Cognitive Science* **11**(60).
+
+Reed, Paul E. 2020. Prosodic variation and rootedness in Appalachian English. *Penn Working Papers in Linguistics* **25**(2).
+
+Reed, Paul E. The importance of rootedness in the study of Appalachian English: Case study evidence for a proposed rootedness metric. *American Speech* **95**(2), 203-226.
+
+Werfel, Krystal, Melanie Schuele, and Paul E. Reed. 2019. Linguistic contributions to spelling accuracy in elementary children with SLI. *American Journal of Speech Language Pathology* **28**(2), 599-611.
+
+Burdin, Rachel Steindel, Nicole Holliday, and Paul E. Reed. 2018. Rising above the standard: Variation in L+H* contour use across 5 varieties of American English. *Proceedings of the 9th International Conference on Speech Prosody* **9**, 354-358.
+
+Reed, Paul E. 2018. The importance of Appalachian identity: A case study in rootedness. *American Speech* **93**(3-4).
 
 Montgomery, Allen A., Paul E. Reed, Kimberley A. Crass, H. Isabel Hubbard, and Joanna Stith. 2014. 
 [The effects of measurement error and vowel removal on the locus equation measure of coarticulation](Montgomeryetal14.pdf). *The Journal of the Acoustical Society of America* **136**(5), 2747-2750.
 
-Reed, Paul E. 2014a. [Defining the field: A comprehensive introduction to sociophonetics. Review of *Sociophonetics: An Introduction* by Erik R. Thomas](Reed_2014_ThomasReview.pdf). *American Speech* **89**(1), 111-114.
+Reed, Paul E. 2014. [Inter- and intra- generational monophthongization and Southern Appalachian identity](Reed_2014_SJoL38_1.pdf). *Southern Journal of Linguistics* **38**(1), 159-193.
 
-Reed, Paul E. 2014b. [Inter- and intra- generational monophthongization and Southern Appalachian identity](Reed_2014_SJoL38_1.pdf). *Southern Journal of Linguistics* **38**(1), 159-193.
+#### Book Chapters
 
-## Outreach Publications
+Reed, Paul E. 2020. Phonological possibilities in Appalachian English. In *Appalachian Englishes in the 21st Century*. Ed. Kirk Hazen. Morganton, WV: WVU Press, pp.20-35.
+
+Reed, Paul E. In press. Appalachia, monophthongization, and intonation: Rethinking tradition. In *Language Variety in the New South: Contemporary Perspectives on Change and Variation* Eds. Jeffrey Reaser, Eric Wilbanks, Karissa Wojcik, and Walt Wolfram. Chapel Hill, NC: University of North Carolina Press, pp.97-112.
+
+#### Book Reviews
+
+Reed, Paul E. 2018. Review of *What you are getting wrong about Appalachia* by Elizabeth Catte and *Ramp Hollow* by Steven Stoll. *Journal of the Working Class Studies Association* **3**(2), 113-116.
+
+Reed, Paul E. 2014. [Defining the field: A comprehensive introduction to sociophonetics. Review of *Sociophonetics: An Introduction* by Erik R. Thomas](Reed_2014_ThomasReview.pdf). *American Speech* **89**(1), 111-114.
+
+
+#### Outreach Publications
 
 Reed, Paul E. 2016. [Mountain Talk](THJHmagazine_Spring2016_Mountain Talk.pdf). *Tar Heel Junior Historian Magazine* **Spring**
 
-## Submitted Papers
 
-Werfel, Krystal, Melanien Schuele, and Paul E. Reed. Under Revision. Linguistic contributions to spelling accuracy in elementary children with SLI. *Journal of Learning Disabilities*.
+#### Submitted Papers
 
-Adams, Charley A., Kimberley A. Crass, Allen A. Montgomery, and Paul E. Reed. Under review. Influence of lexical characteristics on the lipreading of words in sentences. *Journal of Speech, Language, and Hearing Research*.
 
-Dubinsky, Stanley, and Paul E. Reed. Under Review. The syntax and semantics of double modal constructions in an American English dialect. *Natural Language and Linguistic Theory*.
 
-Reed, Paul E. Submitted. Inter- and intra-regional variation in intonation: An analysis of rising pitch accents and rootedness. *The Journal of the Acoustical Society of America*.
+### Works in Progress
 
-## Works in Progress
+Adams, Charley A., Kimberley A. Crass, Allen A. Montgomery, and Paul E. Reed. Under revision. Influence of lexical characteristics on the lipreading of words in sentences. *Journal of Speech, Language, and Hearing Research*.
 
 Reed, Paul E. In preparation. Monophthongization of /ay/ as a local identity marker.
-
-Reed, Paul E. In preparation. Language, place, and rootedness in Appalachia: A case study.
-
-Reed, Paul E. In preparation. Monophthongization and identity: Change across the lifespan.
 
 Reed, Paul E., and Michael Montgomery. In preparation. Evidence of earlier African-American English in a bi-racial Appalachian enclave community.
 
