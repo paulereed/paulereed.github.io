@@ -90,7 +90,7 @@ Blanchette, Frances K., Carrie Jackson, Erin Flannery, and Paul E. Reed. Under r
 Childs, Becky, and Paul E. Reed. Under review. The English of the Southern United States. In *New History of the English Language*. Cambridge University Press.
 
 
-## Selected recent Presentations and Posters
+## Selected Recent Presentations and Posters
 
 Holliday, Nicole R., and Paul E. Reed. 2022. *Watch your tone: Race, gender, and voice quality in automated 'tone of voice' evaluation*. Paper presented at Sociolinguistics Symposium 24 in Ghent, Belgium. July 13-16.
 
