@@ -90,8 +90,20 @@ Blanchette, Frances K., Carrie Jackson, Erin Flannery, and Paul E. Reed. Under r
 Childs, Becky, and Paul E. Reed. Under review. The English of the Southern United States. In *New History of the English Language*. Cambridge University Press.
 
 
-## Recent Presentations and Posters
+## Selected recent Presentations and Posters
 
+Holliday, Nicole R., and Paul E. Reed. 2022. *Watch your tone: Race, gender, and voice quality in automated 'tone of voice' evaluation*. Paper presented at Sociolinguistics Symposium 24 in Ghent, Belgium. July 13-16.
+
+Reed, Paul E. 2022b. *Meaningful places: College students, rootedness, and the Southern Vowel Shift*. Paper presented at the Southeastern Conference on Linguistics (SECOL) 89. Virtual meeting (hosted by Louisiana State University).
+
+Reed, Paul E. 2022a. *The Southern Vowel Shift and meaningful places: How attachment to place affects vowel production among college students*. Paper presented at the American Dialect Society (ADS) Annual Meeting. Virtual meeting.
+
+Farrington, Charlie, Chloe Tacata, and Paul E. Reed. 2021. *A American English variant: Indefinite article variation in American English*. Paper presented at New Ways of Analyzing Variation (NWAV) 49. Virtual meeting (hosted by the University of Texas).
+
+Reed, Paul E. 2021b. *Incorporating dialect diversity in the introductory phonetics classroom: The class is the data*. Paper presented at the Acoustical Society of America Spring Meeting. Virtual meeting. 
+
+
+<!-- 
 ### 2016
 
 Reed, Paul E. 2016. *Monophthongization of /ay/ as a local identity marker*. Paper presented
@@ -202,3 +214,4 @@ Association of Teachers of Spanish and Portuguese (AATSP) Annual Meeting. Washin
 Holt, D. Eric, and Paul E. Reed. 2011. *Native speaker perceptions of learners' connected 
 speech processes in Spanish*. Poster presented at the Hispanic Linguistic Symposium. Athens, GA.
 October 6-9. ([pdf of poster](Holt_Reed_HLS_2011.pdf))
+ -->
