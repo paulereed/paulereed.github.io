@@ -20,6 +20,7 @@ do not have links can [e-mail me](mailto:pereed1@ua.edu).
 2. Articulation and Phonology
 3. Introduction to Phonetics
 4. Sociolinguistics in Speech-Language Pathology
+5. Acoustics
 
 
 ## University of South Carolina
