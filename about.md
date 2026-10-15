@@ -7,7 +7,7 @@ permalink: /about/
 {% include image.html url="/images/preed.jpg" caption="One of the few pics of me that I like. Photo credit to my wife." width=350 align="right" %}
 
 I am an associate professor in the Department
-of Communicative Disorders at the University of Alabama. My research
+of Speech, Language, and Hearing Sciences at the University of Alabama. My research
 interests primarily center on sociophonetics, i.e., how the way we talk signals aspects of
 who we are, and also phonetics more broadly, particularly the phonetics/phonology interface. 
 Much of my sociophonetic work focuses on the English varieties in the 
