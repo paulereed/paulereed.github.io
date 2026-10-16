@@ -32,7 +32,27 @@ are in various stages of the publication process.
 
 ## Publications 
 
+## Books
+
+Carmichael, Katie and Paul E. Reed. 2025. *Language and Place*. Elements of Sociolinguistics. Cambridge University Press.
+
+Reed, Paul E. and Becky Childs. In press. *The New South: Language and Place in the 21st Century*. Routledge.
+
+Reed, Paul E. In preparation. *Appalachian English Varieties*. Mouton De Gruyter.
+
+Reed, Paul E. and Jennifer Cramer (eds.). In preparation. *Oxford Handbook of Appalachian Englishes*. Oxford University Press.
+
 ### Articles
+
+Lee-Bey, Brittany, Frances K. Blanchette, Jessi A. Grieser, Paul E. Reed, and Cynthia Lukyanenko. 2026. [Microvariation in the interpretation of English Negative Sentence](LeeBeyEtAl2026.pdf). *Proceedings of the Linguistic Society of America* **11**(1), 6054.
+
+Holliday, Nicole R. and Paul E. Reed. 2025. [Gender and racial bias issues in a commercial 'tone of voice' analysis system](HollidayReed2025_ToneOfVoice.pdf). *PLoS One* **20**(2).
+
+Blanchette, Frances K., Carrie Jackson, Erin Flannery, and Paul E. Reed. 2024. [Adaptation at the syntax-semantics interface: Evidence from a vernacular construction](BlanchetteEtAl2024_Adaptation.pdf). *Language and Speech* **67**(1), 140-165.
+
+Burdin, Rachel Steindel, Nicole R. Holliday, and Paul E. Reed. 2024. [Can listeners differentiate varieties using prosodic information? Lect identification in a persona-matching task](HollidayEtAl2024_LectIdentification.pdf). *Glossa* **9**.
+
+Baese-Berk, Melissa and Paul E. Reed. 2023. [Addressing diversity in speech science courses](BaeseBerkReed2023_DiversityInSpeechScience_JASA.pdf). *Journal of the Acoustical Society of America* **154**(2), 918-925.
 
 Burdin, Rachel Steindel, Nicole R. Holliday, and Paul E. Reed. 2022. [American English pitch accents in variation: Pushing the boundaries of Mainstream American English ToBI conventions](BurdinHollidayReed_2022.pdf). *Journal of Phonetics* **94**
 
@@ -63,11 +83,21 @@ Reed, Paul E. 2014. [Inter- and intra- generational monophthongization and South
 
 ### Book Chapters
 
+Childs, Becky and Paul E. Reed. 2026. English in the Southern United States. In *The New Cambridge History of the English Language: North America and the Caribbean*. Ed. Natalie Schilling, Derek Denis, and Raymond Hickey. Cambridge University Press, pp. 243-273.
+
+Reed, Paul E. Appalachian Englishes. 2026. In *Language Varieties in North America: A Primer for Speech and Language Practictioners*. Ed. Elena Babatsouli, Yolanda F. Holt, and Karla N. Washington. Multilingual Matters.
+
+Reed, Paul E. Appalachian Englishes. 2025 In *The Wiley Blackwell Encyclopedia of World Englishes*. Ed. Kingsley Bolton. Wiley Blackwell.
+
 Reed, Paul E. 2020. [Phonological possibilities in Appalachian English](Reed_2020e_PhonologicalPossibilities.pdf). In *Appalachian Englishes in the 21st Century*. Ed. Kirk Hazen. Morganton, WV: WVU Press, pp.20-35.
 
 Reed, Paul E. 2018. [Appalachia, monophthongization, and intonation: Rethinking tradition](Reed_2018a_Ch5.pdf). In *Language Variety in the New South: Contemporary Perspectives on Change and Variation* Eds. Jeffrey Reaser, Eric Wilbanks, Karissa Wojcik, and Walt Wolfram. Chapel Hill, NC: University of North Carolina Press, pp.97-112.
 
 ### Book Reviews
+
+Reed, Paul E. 2026. [Mountain Splendor, Mountain Speech: Review of *The Dictionary of Southern Appalachian English*](Reed2026_MountainSplendorReview.pdf). *American Speech* **101**(1), 109-112.
+
+Reed, Paul E. 2025. [Review of *The Origins of Missouri English: A Historical Sociophonetic Analysis*](Reed2025_MizzouEnglishReview.pdf). *English Language and Lingusitics* **30**(2), 447-449.
 
 Reed, Paul E. 2018. [Review of *What you are getting wrong about Appalachia* by Elizabeth Catte and *Ramp Hollow* by Steven Stoll](Reed_2018_Review_Catte_Stoll.pdf). *Journal of the Working Class Studies Association* **3**(2), 113-116.
 
@@ -81,16 +111,55 @@ Reed, Paul E. 2016. [Mountain Talk](THJHmagazine_Spring2016_Mountain Talk.pdf). 
 
 ### Submitted Papers
 
-Reed, Paul E. Under revision. *Appalachian Englishes* in *The New Encyclopedia of World Englishes*. Blackwell.
+Farrington, Charlie, Paul E. Reed, and Alyssa Nazigan. Accepted. A American English Variant: Indefinite article variation in Appalachian and African American Englishes. In *Language Variety in the South 5*. Ed. Bill Kretzschmar. University of Georgia Press.
 
-Baese-Berk, Melissa, and Paul E. Reed. Under review. Addressing diversity in speech science courses. *Journal of the Acoustical Society of America*.
+Reed, Paul E. Submitted. Countering Stigman: Place-based attitudes in Appalachian English. In *Accent, Attitude, and Sound Change*. Ed. Becky Roeder and Gabriela Alfaraz. John Benjamins.
 
-Blanchette, Frances K., Carrie Jackson, Erin Flannery, and Paul E. Reed. Under review. Adaptation at the syntax-semantics interface: Evidence from a vernacular construction. *Language and Speech*.
+Reed, Paul E. Submitted. Language, People, and History: A Background on the Development of Appalachian Englishes. In *The Oxford Handbook of Appalachian Writing and Culture*. Ed. Mae Claxton, Jessica Cory, and Travis Rountree. Oxford University Press.
 
-Childs, Becky, and Paul E. Reed. Under review. The English of the Southern United States. In *New History of the English Language*. Cambridge University Press.
+Reed, Paul E. Submitted. Language, place, and Speech-Language Pathology. *American Speech*
 
+Reed, Paul E. Submitted. Sociophonetics of Intonation. In *The Oxford Handbook of Sociophonetics*. Ed. Jennifer Nycz and Paul De Decker. Oxford University Press.
 
 ## Selected Recent Presentations and Posters
+
+Grieser, Jessi A., Frances K. Blanchette, Cynthia Lukyanenko, and Paul E. Reed. 2026. *Negation without stigma: Toward anti-bias in experimental methodology*. Paper presented at Sociolinguistic Symposium 26. East London, South Africa. July 13-15.
+
+Reed, Paul E. 2026b. *The roots of place: A case study in Appalachian features and place*. Paper presented at the Southeastern Conference on Linguistics (SECOL) Annual Conference in Atlanta, GA in March 26-28.
+
+Reed, Paul E. 2026a. *Appalachian English Through a More Than Lens: Rootedness and variation in Appalachian English*. Paper presented at the 49th Appalachian Studies Association Annual Meeting in Marshall, WV, March 19-21.
+
+Blanchette, Frances K., Cynthia Lukyanenko, Jessi A. Grieser, Paul E. Reed, and Brittany Lee-Bey. 2026. *Microvariation in the interpretation of American English negative sentences*. Paper presented at the Linguistic Society of America (LSA) Annual Meeting in New Orleans, LA. Jan 8-11.
+
+Blanchette, Frances K., Jessi A. Grieser, Cynthia Lukyanenko, and Paul E. Reed. 2025. *Microsyntactic variation in American English negative concord: Evidence from eye-tracking*. Paper presented at the REEDS Workshop on Multidisciplinary Approaches to Morphosyntactic Variation (MUMOVA). Leuven, Belgium. Dec 11-12.
+
+Reed, Paul E. 2025d. *Back vowel fronting and the Southern Shift in Alabama: Regional Differentiation or Ecological Distinction?* Paper presented at New Ways of Analyzing Variation (NWAV) 53 in Ann Arbor, MI. Nov 5-7.
+
+Reed, Paul E. 2025c. *Back vowel fronting in Northeast Tennessee*. Paper presented at the Southeastern Conference on Linguistics Annual Meeting in Boca Raton, FL. April 10-12.
+
+Reed, Paul E. 2025b. *An individual view of Appalachian Englishes: A lifetime of change*. Paper presented at the Appalachian Studies Association Annual Meeting in Cookeville, TN. March 20-22.
+
+Reed, Paul E. 2025a. *Place-based attitudes in Appalachian Englishes*. Paper presented at the Linguistic Society of America (LSA) Annual Meeting, Philadelphia, PA January 9-12.
+
+Reed, Paul E. 2024c. *Regional prosodic variation in Alabama English*. Paper presented at New Ways of Analyzing Variation (NWAV) 52, Miami Beach, FL November 7-9.
+
+Reed, Paul E. 2024b. *The meaning of place in regional orientation*. Paper presented at the 12th International Conference on Language Variation in Europe (ICLaVE), Vienna, Austria, July 11, 2024.
+
+Reed, Paul E. and Becky Childs. 2024. *The rate and pace of change in Appalachian English*. Paper presented at the deciennial Language Variation in the South (LAVIS) V/Southeastern Conference on Linguistics (SECOL) conference in Athens, GA.
+
+Farrington, Charlie, Alyssa Nazigian, and Paul E. Reed. 2024. *Indefinite article variation in Appalachian and African American Englishes*. Paper presented at the decennial Language Variation in the South (LAVIS) V/Southeastern Conference on Linguistics (SECOL) conference in Athens, GA.
+
+Reed, Paul E. 2024a. *Regional variation in prosodic rhythm in Appalachian English*. Paper presented at the Appalachian Studies Association annual conference in Cullowhee, NC.
+
+Holliday, Nicole R. and Paul E. Reed. 2024. *Tone it Down: Inherent bias in automated ‘tone of voice’ evaluation*. Short presentation at the Linguistic Society of America Annual Meeting, January 4-7, NYC.
+
+Reed, Paul E., and Melissa Baese-Berk. 2023. *Addressing diversity in speech science courses*. Paper presented at the Acoustical Society of American Spring Meeting in Chicago, IL. May 8-12.
+
+Reed, Paul E. 2023c. *Rural and urban differences in Appalachian Alabama*. Paper presented at the Appalachian Studies Association (ASA) Annual Conference. Athens, OH. March 16-19.
+
+Reed, Paul E. 2023b. *Place matters: Velar nasal fronting in northeast Tennessee*. Paper presented at the Southeastern Conference on Linguistics (SECOL) 90. Oxford, MS. March 9-11.
+
+Reed, Paul E. 2023a. *Prosodic and regional variation in Alabama English*. Paper presented at the American Dialect Society (ADS) Annual Meeting. Denver, CO. Jan 5-8.
 
 Holliday, Nicole R., and Paul E. Reed. 2022. *Watch your tone: Race, gender, and voice quality in automated 'tone of voice' evaluation*. Paper presented at Sociolinguistics Symposium 24 in Ghent, Belgium. July 13-16.
 
