@@ -121,6 +121,7 @@ Reed, Paul E. Submitted. Language, place, and Speech-Language Pathology. *Americ
 
 Reed, Paul E. Submitted. Sociophonetics of Intonation. In *The Oxford Handbook of Sociophonetics*. Ed. Jennifer Nycz and Paul De Decker. Oxford University Press.
 
+
 ## Selected Recent Presentations and Posters
 
 Grieser, Jessi A., Frances K. Blanchette, Cynthia Lukyanenko, and Paul E. Reed. 2026. *Negation without stigma: Toward anti-bias in experimental methodology*. Paper presented at Sociolinguistic Symposium 26. East London, South Africa. July 13-15.
