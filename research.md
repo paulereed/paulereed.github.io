@@ -44,6 +44,8 @@ Reed, Paul E. and Jennifer Cramer (eds.). In preparation. *Oxford Handbook of Ap
 
 ### Articles
 
+Reed, Paul E. Accepted. Language, place, and Speech-Language Pathology. *American Speech*
+
 Lee-Bey, Brittany, Frances K. Blanchette, Jessi A. Grieser, Paul E. Reed, and Cynthia Lukyanenko. 2026. [Microvariation in the interpretation of English Negative Sentence](Lee-BeyEtal2026.pdf). *Proceedings of the Linguistic Society of America* **11**(1), 6054.
 
 Holliday, Nicole R. and Paul E. Reed. 2025. [Gender and racial bias issues in a commercial 'tone of voice' analysis system](HollidayReed2025_ToneOfVoice.pdf). *PLoS One* **20**(2).
@@ -116,8 +118,6 @@ Farrington, Charlie, Paul E. Reed, and Alyssa Nazigan. Accepted. A American Engl
 Reed, Paul E. Submitted. Countering Stigman: Place-based attitudes in Appalachian English. In *Accent, Attitude, and Sound Change*. Ed. Becky Roeder and Gabriela Alfaraz. John Benjamins.
 
 Reed, Paul E. Submitted. Language, People, and History: A Background on the Development of Appalachian Englishes. In *The Oxford Handbook of Appalachian Writing and Culture*. Ed. Mae Claxton, Jessica Cory, and Travis Rountree. Oxford University Press.
-
-Reed, Paul E. Submitted. Language, place, and Speech-Language Pathology. *American Speech*
 
 Reed, Paul E. Submitted. Sociophonetics of Intonation. In *The Oxford Handbook of Sociophonetics*. Ed. Jennifer Nycz and Paul De Decker. Oxford University Press.
 
